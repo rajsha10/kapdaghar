@@ -89,7 +89,7 @@ export default function Home() {
               </Button>
             </div>
             <div className="relative h-[400px] overflow-hidden rounded-lg image-hover-zoom">
-              <Image src="/placeholder.svg?height=800&width=600" alt="New Collection" fill className="object-cover" />
+              <Image src="/products/fashion.mp4" alt="New Collection" fill className="object-cover" />
             </div>
           </div>
         </div>
